@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-universal-ts",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "universal",
+    "typescript"
+  ],
+  "description": "A Typescript template to use with universal-scripts",
+  "repository": "GlueDigital/cra-template-universal-ts",
+  "author": "Glue Digital <hola@glue.digital>",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
