@@ -15,5 +15,8 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "scripts": {
+    "test": "scripts/run-tests.sh"
+  }
 }
