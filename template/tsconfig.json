@@ -4,12 +4,12 @@
       "allowSyntheticDefaultImports": true,
       "lib": [
           "dom",
-          "es2015",
-          "es2016"
+          "DOM.Iterable",
+          "ES2022"
       ],
       "jsx": "preserve",
-      "target": "es2016",
-      "module": "es2015",
+      "target": "ES2022",
+      "module": "ESNext",
       "moduleResolution": "node",
       "baseUrl": ".",
       "noImplicitAny": false,
