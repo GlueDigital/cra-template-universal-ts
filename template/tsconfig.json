@@ -27,7 +27,8 @@
         "@utils/*": ["./src/utils/*"],
         "@routes/*": ["./src/routes/*"],
         "@static/*": ["./src/static/*"],
-        "@hooks/*": ["./src/hooks/*"]
+        "@hooks/*": ["./src/hooks/*"],
+        "src/*": ["./src/*"],
       }
   }
 }
