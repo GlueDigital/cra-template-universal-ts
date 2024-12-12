@@ -37,3 +37,9 @@ declare module '*.sass' {
   const content: { [className: string]: string }
   export default content
 }
+
+declare const __SERVER__: boolean
+declare const __CLIENT__: boolean
+declare const __DEV__: boolean
+declare const __PROD__: boolean
+declare const __WATCH__: boolean
